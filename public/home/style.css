@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+.single-shop{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.shop-menu button{
+	border:2px solid SlateBlue;
+	padding:5px;
+}
+
+.logo h2{
+
+	font-family: 'Bree Serif', serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-shadow: -2px 2px 5px #000000;
+	margin-top:-22px;
+
+}
+
+.logo h2::first-letter {
+    font-size: 50px;
+    color: #0F4A7A;
+   
+}
